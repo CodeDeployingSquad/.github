@@ -1,1 +1,1 @@
-![Banner Image](https://github.com/CodeDeployingSquad/.github/profile/cds_banner.png)
+![Banner Image](https://github.com/CodeDeployingSquad/.github/tree/main/profile/cds_banner.png)
