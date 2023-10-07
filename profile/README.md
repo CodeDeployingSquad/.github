@@ -32,17 +32,14 @@
 </p>
       
 <p align="center">
-  <a href="#installation">Installation</a> •
-  <a href="#updating">Updating</a> •
-  <a href="#features">Features</a> •
-  <a href="#symbols">Symbols</a> •
-  <a href="#binds">Binds</a> •
-  <a href="#wiki">Wiki</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#deprecated">Deprecated</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
+  <a href="#Mission">Mission</a> •
+  <a href="#Vision">Vision</a> •
+  <a href="#Values">Values</a> •
+  <a href="#Projects">Projects</a> •
+  <a href="#Community">Community</a> •
+  <a href="#Contribute">Contribute</a> •
+  <a href="#Support">Support</a> •
+  <a href="#CTA">Call to Action</a>
 </p>
 
 ---
