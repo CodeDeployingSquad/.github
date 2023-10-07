@@ -1,6 +1,6 @@
 ## Hey! This is us 👋
 
-<div style="text-align:center">
+<div align="center">
   <img src="https://github.com/CodeDeployingSquad/.github/blob/92f528fe0263e311e93942e307c97d766e8fbe48/profile/banner.png" alt="Banner Image">
 </div>
 <br>
@@ -11,24 +11,31 @@
     <a href="https://twitter.com/bettercallcds/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
          alt="Twitter">
+    </a>
     <a href="https://www.instagram.com/bettercallcds/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
          alt="Instagram">
+    </a>
     <a href="https://www.facebook.com/Code-Deploying-Squad-107869161535073/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
          alt="Facebook">
-   <a href="https://www.youtube.com/channel/UCgfABFAZox1a26_iyyUuYeg">
+    </a>
+    <a href="https://www.youtube.com/channel/UCgfABFAZox1a26_iyyUuYeg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
          alt="YouTube">
-   <a href="https://www.linkedin.com/in/code-deploying-squad-946a6621a/">
+    </a>
+    <a href="https://www.linkedin.com/in/code-deploying-squad-946a6621a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn">
-   <a href="https://www.reddit.com/r/CodeDeployingSquad/">
+    </a>
+    <a href="https://www.reddit.com/r/CodeDeployingSquad/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
          alt="Reddit">
-   <a href="https://discord.gg/8SFAywV4M8">
+    </a>
+    <a href="https://discord.gg/8SFAywV4M8">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
          alt="Discord">
+    </a>
 </p>
       
 <p align="center">
@@ -46,7 +53,7 @@
 
 ---
 
-### Mission 🎯 <a name="Mission"></a>
+## Mission 🎯 <a name="Mission"></a>
 
 At CodeDeployingSquad, our mission is to redefine the landscape of software development and deployment. We are a dedicated team of open-source developers committed to making the deployment process faster, more reliable, and hassle-free for our fellow developers and organizations.
 
@@ -62,11 +69,7 @@ At CodeDeployingSquad, our mission is to redefine the landscape of software deve
 
 Join us on our journey as we transform the world of software development and deployment, one line of code at a time. Together, we'll build a future where deploying code is as seamless as writing it. 🚀
 
----
-
-### Vision 🔮 <a name="Vision"></a>
-
-**Our Vision:**
+## Vision 🔮 <a name="Vision"></a>
 
 We envision a future where software deployment is a breeze, enabling developers and organizations to bring their ideas to life effortlessly. At CodeDeployingSquad, we are committed to building the foundation for this vision, and we see:
 
@@ -80,9 +83,7 @@ We envision a future where software deployment is a breeze, enabling developers 
 
 As we work tirelessly towards our vision, we invite you to be part of this journey. Together, we will create a future where deploying software is a joy, not a challenge. Join us in making this vision a reality! 🌟
 
----
-
-### Values ✨ <a name="Values"></a>
+## Values ✨ <a name="Values"></a>
 
 As members of CodeDeployingSquad, we hold the following values close to our hearts:
 
@@ -94,51 +95,43 @@ As members of CodeDeployingSquad, we hold the following values close to our hear
 
 4. **Continuous Learning**: We embrace a culture of learning and growth, staying updated with the latest technologies and best practices.
 
----
-
-### Projects 🛠️ <a name="Projects"></a>
+## Projects 🛠️ <a name="Projects"></a>
 
 Here are some of our featured projects:
 
-1. [Project A](link-to-project-a): Description of Project A.
-2. [Project B](link-to-project-b): Description of Project B.
-3. [Project C](link-to-project-c): Description of Project C.
+| Project         | Description            |
+| --------------- | ---------------------- |
+| [Project A](link-to-project-a) | Description of Project A. |
+| [Project B](link-to-project-b) | Description of Project B. |
+| [Project C](link-to-project-c) | Description of Project C. |
 
-Feel free to explore and contribute to these exciting endeavors!
+Feel free to explore and contribute to these exciting endeavors! 🌟
 
----
-
-### Community 🌍 <a name="Community"></a>
+## Community 🌍 <a name="Community"></a>
 
 We believe in the power of community and actively engage with developers around the globe. Join us on:
 
-- [Our Forums](link-to-forums)
-- [Community Events](link-to-events)
-- [Developer Meetups](link-to-meetups)
+- [Our Forums](link-to-forums) 🌐
+- [Community Events](link-to-events) 🎉
+- [Developer Meetups](link-to-meetups) 🤝
 
-Let's learn, grow, and code together!
+Let's learn, grow, and code together! 🚀
 
----
-
-### Contribute 🤝 <a name="Contribute"></a>
+## Contribute 🤝 <a name="Contribute"></a>
 
 Contributions are welcome! Here's how you can get involved:
 
-- Report issues
-- Submit feature requests
-- Fork and create pull requests
-- Engage in discussions
+- Report issues 🐛
+- Submit feature requests 🚀
+- Fork and create pull requests 🌿
+- Engage in discussions 💬
 
-Together, we can make a difference in the world of software development.
+Together, we can make a difference in the world of software development. 🌟
 
----
+## Support 🛡️ <a name="Support"></a>
 
-### Support 🛡️ <a name="Support"></a>
+For any questions, feedback, or assistance, feel free to reach out to us at [codedeployingsquad@gmail.com](mailto:codedeployingsquad@gmail.com). 📧
 
-For any questions, feedback, or assistance, feel free to reach out to us at [codedeployingsquad@gmail.com](mailto:codedeployingsquad@gmail.com).
-
----
-
-### Call to Action (CTA) 📣 <a name="CTA"></a>
+## Call to Action (CTA) 📣 <a name="CTA"></a>
 
 If you're as passionate about open-source software and seamless deployment as we are, star our repository and join us in our mission! Let's build the future together. 🌟
