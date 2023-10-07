@@ -9,9 +9,9 @@
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
 <p align="center">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub last commit">
+    <a href="https://twitter.com/bettercallcds">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="Twitter">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
     <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
