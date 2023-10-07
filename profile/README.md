@@ -1,7 +1,4 @@
-<br>
-<h1>Hey! This is us 👋</h1>
-
----
+## Hey! This is us 👋
 
 <br>
 
