@@ -6,7 +6,7 @@
 
 <br>
  
-<h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
+<h3 align="center">Code was being deployed. Code has been deployed. Code will be deployed.</h3>
 
 <p align="center">
     <a href="https://twitter.com/bettercallcds">
