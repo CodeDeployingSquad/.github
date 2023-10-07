@@ -6,9 +6,7 @@
 
 <br>
  
-<h3 align="center">Code was being deployed. Code has been deployed. Code will be deployed.</h3>
-
----
+<h4 align="center">Code was being deployed. Code has been deployed. Code will be deployed.</h4>
 
 <p align="center">
     <a href="https://twitter.com/bettercallcds">
