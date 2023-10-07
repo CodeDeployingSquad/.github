@@ -43,3 +43,27 @@
 </p>
 
 ---
+
+### Mission
+Describe the mission statement of your project or team. What is the primary goal or purpose?
+
+### Vision
+Explain the long-term vision or goals that you aim to achieve with your project or team.
+
+### Values
+List the core values that guide your project or team's decisions and actions.
+
+### Projects
+Provide a brief overview of the projects or repositories associated with your team.
+
+### Community
+Discuss how your project engages with the community. This could include information on forums, discussion boards, or events related to your project.
+
+### Contribute
+Explain how others can contribute to your project. This might include information on how to report issues, submit pull requests, or get involved in discussions.
+
+### Support
+Provide information on how users and contributors can get support, whether it's through documentation, community forums, or other channels.
+
+### Call to Action (CTA)
+Encourage readers to take a specific action, such as starring the repository, contributing, or getting in touch with your team.
