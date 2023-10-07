@@ -42,10 +42,9 @@
   <a href="#CTA">Call to Action</a>
 </p>
 
----
-
 <br>
 
+---
 
 ### Mission 🎯 <a name="Mission"></a>
 
