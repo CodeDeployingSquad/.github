@@ -51,7 +51,7 @@
 
 ---
 
-## Mission 🎯 <a name="Mission"></a>
+# Mission 🎯 <a name="Mission"></a>
 
 At CodeDeployingSquad, our mission is to redefine the landscape of software development and deployment. We are a dedicated team of open-source developers committed to making the deployment process faster, more reliable, and hassle-free for our fellow developers and organizations.
 
@@ -67,7 +67,9 @@ At CodeDeployingSquad, our mission is to redefine the landscape of software deve
 
 Join us on our journey as we transform the world of software development and deployment, one line of code at a time. Together, we'll build a future where deploying code is as seamless as writing it. 🚀
 
-## Vision 🔮 <a name="Vision"></a>
+<br>
+
+# Vision 🔮 <a name="Vision"></a>
 
 We envision a future where software deployment is a breeze, enabling developers and organizations to bring their ideas to life effortlessly. At CodeDeployingSquad, we are committed to building the foundation for this vision, and we see:
 
@@ -81,7 +83,9 @@ We envision a future where software deployment is a breeze, enabling developers 
 
 As we work tirelessly towards our vision, we invite you to be part of this journey. Together, we will create a future where deploying software is a joy, not a challenge. Join us in making this vision a reality! 🌟
 
-## Values ✨ <a name="Values"></a>
+<br>
+
+# Values ✨ <a name="Values"></a>
 
 As members of CodeDeployingSquad, we hold the following values close to our hearts:
 
@@ -93,7 +97,9 @@ As members of CodeDeployingSquad, we hold the following values close to our hear
 
 4. **Continuous Learning**: We embrace a culture of learning and growth, staying updated with the latest technologies and best practices.
 
-## Projects 🛠️ <a name="Projects"></a>
+<br>
+
+# Projects 🛠️ <a name="Projects"></a>
 
 Here are some of our featured projects:
 
@@ -105,7 +111,9 @@ Here are some of our featured projects:
 
 Feel free to explore and contribute to these exciting endeavors! 🌟
 
-## Community 🌍 <a name="Community"></a>
+<br>
+
+# Community 🌍 <a name="Community"></a>
 
 We believe in the power of community and actively engage with developers around the globe. Join us on:
 
@@ -115,7 +123,9 @@ We believe in the power of community and actively engage with developers around 
 
 Let's learn, grow, and code together! 🚀
 
-## Contribute 🤝 <a name="Contribute"></a>
+<br>
+
+# Contribute 🤝 <a name="Contribute"></a>
 
 Contributions are welcome! Here's how you can get involved:
 
@@ -126,10 +136,14 @@ Contributions are welcome! Here's how you can get involved:
 
 Together, we can make a difference in the world of software development. 🌟
 
-## Support 🛡️ <a name="Support"></a>
+<br>
+
+# Support 🛡️ <a name="Support"></a>
 
 For any questions, feedback, or assistance, feel free to reach out to us at [codedeployingsquad@gmail.com](mailto:codedeployingsquad@gmail.com). 📧
 
-## Call to Action (CTA) 📣 <a name="CTA"></a>
+<br>
+
+# Call to Action (CTA) 📣 <a name="CTA"></a>
 
 If you're as passionate about open-source software and seamless deployment as we are, star our repository and join us in our mission! Let's build the future together. 🌟
