@@ -1,7 +1,7 @@
 ## Hey! This is us 👋
 
 <div align="center">
-  <img src="https://github.com/CodeDeployingSquad/.github/blob/92f528fe0263e311e93942e307c97d766e8fbe48/profile/banner.png" alt="Banner Image">
+  <img src="https://github.com/CodeDeployingSquad/.github/blob/16c7b538e7b11e0e6d5fe968f9b862c6383153c6/profile/banner1cropped.png" alt="Banner Image">
 </div>
 <br>
  
