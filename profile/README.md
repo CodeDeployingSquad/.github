@@ -6,6 +6,21 @@
  
 <h4 align="center">Code was being deployed. Code has been deployed. Code will be deployed.</h4>
 
+      
+<p align="center">
+  <a href="#Mission">Mission</a> •
+  <a href="#Vision">Vision</a> •
+  <a href="#Values">Values</a> •
+  <a href="#Projects">Projects</a> •
+  <a href="#Community">Community</a> •
+  <a href="#Contribute">Contribute</a> •
+  <a href="#Support">Support</a> •
+  <a href="#CTA">Call to Action</a>
+</p>
+
+<br>
+<br>
+
 <p align="center">
     <a href="https://twitter.com/bettercallcds/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
@@ -36,17 +51,40 @@
          alt="Discord">
     </a>
 </p>
-      
-<p align="center">
-  <a href="#Mission">Mission</a> •
-  <a href="#Vision">Vision</a> •
-  <a href="#Values">Values</a> •
-  <a href="#Projects">Projects</a> •
-  <a href="#Community">Community</a> •
-  <a href="#Contribute">Contribute</a> •
-  <a href="#Support">Support</a> •
-  <a href="#CTA">Call to Action</a>
-</p>
+
+<div align="center">
+  <a href="https://github.com/CodeDeployingSquad?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-9-brightgreen.svg" alt="Repositories">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/graphs/contributors">
+    <img src="https://img.shields.io/badge/Contributors-15-blue.svg" alt="Contributors">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Commits-3200-orange.svg" alt="Commits">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/pulls">
+    <img src="https://img.shields.io/badge/PRs%20Open-25-brightgreen.svg" alt="PRs Open">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/pulls?q=is%3Apr+is%3Aclosed">
+    <img src="https://img.shields.io/badge/PRs%20Merged-20-blue.svg" alt="PRs Merged">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/issues">
+    <img src="https://img.shields.io/badge/Issues%20Open-50-red.svg" alt="Issues Open">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/badge/Issues%20Closed-100-green.svg" alt="Issues Closed">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/network/members">
+    <img src="https://img.shields.io/badge/Forks-30-lightgrey.svg" alt="Forks">
+  </a>
+  <a href="https://github.com/CodeDeployingSquad/stargazers">
+    <img src="https://img.shields.io/badge/Stars-1500-yellow.svg" alt="Stars">
+  </a>
+</div>
+
+
+
+
 
 <br>
 
