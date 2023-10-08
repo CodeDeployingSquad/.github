@@ -1,5 +1,3 @@
-## Hey! This is us 👋
-
 <div align="center">
   <img src="https://github.com/CodeDeployingSquad/.github/blob/44b24e097718cfd3af001436740afecc743e6742/profile/cds_readme_banner.png" alt="Banner Image">
 </div>
