@@ -65,14 +65,8 @@
   <a href="https://github.com/CodeDeployingSquad/pulls">
     <img src="https://img.shields.io/badge/PRs%20Open-25-brightgreen.svg" alt="PRs Open">
   </a>
-  <a href="https://github.com/CodeDeployingSquad/pulls?q=is%3Apr+is%3Aclosed">
-    <img src="https://img.shields.io/badge/PRs%20Merged-20-blue.svg" alt="PRs Merged">
-  </a>
   <a href="https://github.com/CodeDeployingSquad/issues">
     <img src="https://img.shields.io/badge/Issues%20Open-50-red.svg" alt="Issues Open">
-  </a>
-  <a href="https://github.com/CodeDeployingSquad/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/badge/Issues%20Closed-100-green.svg" alt="Issues Closed">
   </a>
   <a href="https://github.com/CodeDeployingSquad/network/members">
     <img src="https://img.shields.io/badge/Forks-30-lightgrey.svg" alt="Forks">
