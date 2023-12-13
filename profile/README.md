@@ -19,33 +19,6 @@
 </p>
 
 <br>
-<br>
-
-<div align="center">
-  <a href="https://github.com/CodeDeployingSquad?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-6-brightgreen.svg" alt="Repositories">
-  </a>
-  <a href="https://github.com/CodeDeployingSquad/graphs/contributors">
-    <img src="https://img.shields.io/badge/Contributors-5-blue.svg" alt="Contributors">
-  </a>
-  <a href="https://github.com/CodeDeployingSquad/graphs/commit-activity">
-    <img src="https://img.shields.io/badge/Commits-40-orange.svg" alt="Commits">
-  </a>
-  <a href="https://github.com/CodeDeployingSquad/pulls">
-    <img src="https://img.shields.io/badge/PRs%20Open-5-brightgreen.svg" alt="PRs Open">
-  </a>
-  <a href="https://github.com/CodeDeployingSquad/issues">
-    <img src="https://img.shields.io/badge/Issues%20Open-10-red.svg" alt="Issues Open">
-  </a>
-  <a href="https://github.com/CodeDeployingSquad/network/members">
-    <img src="https://img.shields.io/badge/Forks-10-lightgrey.svg" alt="Forks">
-  </a>
-  <a href="https://github.com/CodeDeployingSquad/stargazers">
-    <img src="https://img.shields.io/badge/Stars-1500-yellow.svg" alt="Stars">
-  </a>
-</div>
-
-<br>
 
 <p align="center">
     <a href="https://twitter.com/bettercallcds/">
