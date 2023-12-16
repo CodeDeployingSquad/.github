@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
          alt="Reddit">
     </a>
-    <a href="https://discord.gg/8SFAywV4M8">
+    <a href="https://discord.gg/uR7DpxtaKw">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
          alt="Discord">
     </a>
